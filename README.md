@@ -200,13 +200,6 @@ docker run -v /etc/docker/config:/tv-requests/config -v /etc/docker/output:/tv-r
 
 [MIT](./LICENSE) License &copy; 2024-PRESENT [Govin](https://github.com/guovin)
 
-## 💰️ 赞赏
-
-<div>请我喝杯咖啡☕️吧~</div>
-
-| 支付宝                                    | 微信                                        |
-| ----------------------------------------- | ------------------------------------------- |
-| ![支付宝扫码](./static/images/alipay.jpg) | ![微信扫码](./static/images/appreciate.jpg) |
 
 ## 📣 免责声明
 
